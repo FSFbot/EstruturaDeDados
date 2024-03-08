@@ -1,0 +1,3 @@
+/Users/coyot/CLionProjects/avarage/cmake-build-debug/CMakeFiles/avarage.dir
+/Users/coyot/CLionProjects/avarage/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coyot/CLionProjects/avarage/cmake-build-debug/CMakeFiles/rebuild_cache.dir

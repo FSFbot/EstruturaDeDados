@@ -1,0 +1,7 @@
+# ninja log v5
+0	64	1709145541602774839	build.ninja	9d7f58357d4f4495
+0	56	1709145180705104067	CMakeFiles/Pilhas_exercicio.dir/main.c.o	dda512deaa6613be
+0	64	1709145180712992554	CMakeFiles/Pilhas_exercicio.dir/pilha_01.c.o	5111989f80181bd2
+1	65	1709145180712993198	CMakeFiles/Pilhas_exercicio.dir/stack_02.c.o	3bd0778bbc8b2a8f
+1	60	1709145541602774839	build.ninja	9d7f58357d4f4495
+0	61	1709145541670518370	Pilhas_exercicio	a8abd42618ff3e22

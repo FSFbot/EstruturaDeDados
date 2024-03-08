@@ -1,0 +1,3 @@
+/Users/coyot/CLionProjects/aprendendoPilhas/GeminiStack/cmake-build-debug/CMakeFiles/GeminiStack.dir
+/Users/coyot/CLionProjects/aprendendoPilhas/GeminiStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coyot/CLionProjects/aprendendoPilhas/GeminiStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

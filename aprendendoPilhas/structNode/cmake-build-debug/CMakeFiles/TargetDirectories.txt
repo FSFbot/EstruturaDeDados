@@ -1,0 +1,3 @@
+/Users/coyot/CLionProjects/aprendendoPilhas/structNode/cmake-build-debug/CMakeFiles/structNode.dir
+/Users/coyot/CLionProjects/aprendendoPilhas/structNode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coyot/CLionProjects/aprendendoPilhas/structNode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/coyot/CLionProjects/EmptyStack/cmake-build-debug/CMakeFiles/EmptyStack.dir
+/Users/coyot/CLionProjects/EmptyStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/coyot/CLionProjects/EmptyStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
